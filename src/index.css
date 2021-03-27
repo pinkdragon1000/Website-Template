@@ -1,0 +1,42 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap");
+:root {
+    --gradient: linear-gradient(135deg, var(--dark-purple), var(--light-purple));
+    --dark-purple: #032b88;
+    --light-purple: #7935c9;
+    --brown: #2f2d01;
+    --white: #ffffff;
+    --grey: #f1efee;
+    --med-grey: #808080;
+}
+
+body {
+    font-family: "Open Sans", sans-serif;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    margin: 0 0;
+    color: var(--brown);
+}
+
+a {
+    text-decoration: none;
+}
+
+p {
+    font-size: 1.5rem;
+}
+
+.center-container {
+    align-items: center;
+}
+
+.column {
+    display: flex;
+    flex-direction: column;
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
