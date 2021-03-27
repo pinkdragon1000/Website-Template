@@ -29,3 +29,7 @@ Install using `npm i`.
 ```
 
 [Click Here to View Project Instructions/Help Guide](https://docs.google.com/document/d/1lDdpssl0s7t0NZJMoraPqrqsVoSti9Myk1Kqp-Bz0Sk/edit?usp=sharing)
+
+
+Template Preview:
+<img src="https://github.com/pinkdragon1000/Website-Template/blob/master/WebsiteTemplate.png" style="height: 100px; width: 100px;"></img>
