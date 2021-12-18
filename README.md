@@ -32,4 +32,5 @@ Install using `npm i`.
 
 
 Template Preview:
-<img src="https://github.com/pinkdragon1000/Website-Template/blob/master/WebsiteTemplate.png" style="height: 100px; width: 100px;"></img>
+
+<img src="https://github.com/pinkdragon1000/Website-Template/blob/master/WebsiteTemplate.png" style="height: 50%; width: 50%;"></img>
